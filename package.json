@@ -1,0 +1,22 @@
+{
+  "name": "ng-color-picker",
+  "version": "1.0.0",
+  "description": "A simple color picker for AngularJS",
+  "main": "color-picker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cycojesus/ng-color-picker.git"
+  },
+  "keywords": [
+    "laclasse.com"
+  ],
+  "author": "Gwenhael Le Moine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cycojesus/ng-color-picker/issues"
+  },
+  "homepage": "https://github.com/cycojesus/ng-color-picker#readme"
+}
